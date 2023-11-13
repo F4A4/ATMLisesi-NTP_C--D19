@@ -1,0 +1,13 @@
+C:\Users\MO-04\Desktop\KararDöngüleri\KararDöngüleri\bin\Debug\KararDöngüleri.exe
+C:\Users\MO-04\Desktop\KararDöngüleri\KararDöngüleri\bin\Debug\KararDöngüleri.pdb
+C:\Users\MO-04\Desktop\KararDöngüleri\KararDöngüleri\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MO-04\Desktop\KararDöngüleri\KararDöngüleri\obj\x86\Debug\KararDöngüleri.Form1.resources
+C:\Users\MO-04\Desktop\KararDöngüleri\KararDöngüleri\obj\x86\Debug\KararDöngüleri.Properties.Resources.resources
+C:\Users\MO-04\Desktop\KararDöngüleri\KararDöngüleri\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MO-04\Desktop\KararDöngüleri\KararDöngüleri\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MO-04\Desktop\KararDöngüleri\KararDöngüleri\obj\x86\Debug\KararDöngüleri.exe
+C:\Users\MO-04\Desktop\KararDöngüleri\KararDöngüleri\obj\x86\Debug\KararDöngüleri.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\19.GÜN\KararDöngüleri\KararDöngüleri\obj\x86\Debug\KararDöngüleri.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\19.GÜN\KararDöngüleri\KararDöngüleri\obj\x86\Debug\KararDöngüleri.pdb
+C:\Users\lenovo\Desktop\Bilişim Teknolojileri\C#-NTP\NTP Dersinde Yaptığımız Çalışmalar\19.GÜN\KararDöngüleri\KararDöngüleri\obj\x86\Debug\KararDöngüleri.exe
+C:\Users\lenovo\Desktop\Bilişim Teknolojileri\C#-NTP\NTP Dersinde Yaptığımız Çalışmalar\19.GÜN\KararDöngüleri\KararDöngüleri\obj\x86\Debug\KararDöngüleri.pdb

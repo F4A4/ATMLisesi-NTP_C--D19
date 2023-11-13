@@ -1,0 +1,11 @@
+C:\Users\lenovo\Desktop\Odev_Soru_1\Odev_Soru_1\bin\Debug\Odev_Soru_1.exe
+C:\Users\lenovo\Desktop\Odev_Soru_1\Odev_Soru_1\bin\Debug\Odev_Soru_1.pdb
+C:\Users\lenovo\Desktop\Odev_Soru_1\Odev_Soru_1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\Odev_Soru_1\Odev_Soru_1\obj\x86\Debug\Odev_Soru_1.Form1.resources
+C:\Users\lenovo\Desktop\Odev_Soru_1\Odev_Soru_1\obj\x86\Debug\Odev_Soru_1.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Odev_Soru_1\Odev_Soru_1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lenovo\Desktop\Odev_Soru_1\Odev_Soru_1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lenovo\Desktop\Odev_Soru_1\Odev_Soru_1\obj\x86\Debug\Odev_Soru_1.exe
+C:\Users\lenovo\Desktop\Odev_Soru_1\Odev_Soru_1\obj\x86\Debug\Odev_Soru_1.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\19.GÜN\Odev_Soru_1\Odev_Soru_1\obj\x86\Debug\Odev_Soru_1.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\19.GÜN\Odev_Soru_1\Odev_Soru_1\obj\x86\Debug\Odev_Soru_1.pdb
